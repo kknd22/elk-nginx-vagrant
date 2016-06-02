@@ -2,6 +2,7 @@
 vagrant provision ubuntu, elk, nginx based on https://github.com/geerlingguy/ansible-vagrant-examples/tree/master/elk    
 and https://github.com/geerlingguy/JJG-Ansible-Windows
 
+the following is copyu from the orignal README.md
 
 # Ansible Vagrant profile for ELK (Elasticsearch, Logstash, Kibana)
 
