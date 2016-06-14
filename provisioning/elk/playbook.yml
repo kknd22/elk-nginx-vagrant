@@ -3,7 +3,7 @@
 #
 # @author Jeff Geerling (2014).
 
-- hosts: logs, localhost
+- hosts: elkvm, localhost
   gather_facts: yes
 
   vars_files:
